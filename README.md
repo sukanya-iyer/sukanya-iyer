@@ -13,8 +13,8 @@
 - Tools: Jupyter Notebooks, Google Colab, GitHub
 
 📫 How to Reach Me:
-Email: sukanyaiyer52@gmail.com
-LinkedIn: https://www.linkedin.com/in/sukanya-iyer-9943422a6
+- Email: sukanyaiyer52@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sukanya-iyer-9943422a6
 <!--
 **sukanya-iyer/sukanya-iyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
