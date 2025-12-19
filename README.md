@@ -1,5 +1,5 @@
 ## Hi, I'm Sukanya! 👋
-🎓 Sophomore at UMass Amherst studying Computer Science
+🎓 Junior at UMass Amherst studying Computer Science
 
 ### 🎯 Projects: 
 - **Home Safety Advisor for PREPARED**
